@@ -1,0 +1,4 @@
+.env
+.env.example
+drying_rack.db
+.venv
