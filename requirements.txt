@@ -1,0 +1,7 @@
+fastapi>=0.116,<1
+uvicorn[standard]>=0.35,<1
+sqlmodel>=0.0.24,<1
+pydantic-settings>=2.10,<3
+psycopg[binary]>=3.2,<4  # RENDER/DB: PostgreSQL driver (psycopg v3)
+python-telegram-bot[job-queue]>=22.4,<23
+python-multipart>=0.0.20,<1
